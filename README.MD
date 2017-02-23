@@ -1,2 +1,2 @@
 Hello!
-This is MyPython.
+This is MyCode.
